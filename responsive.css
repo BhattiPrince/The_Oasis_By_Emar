@@ -479,6 +479,9 @@
         height: 380px;
         width: 260px;
     }
+    .specification_list_content h4 {
+        font-size: 14px;
+    }
     .about_the_developer_img img {
         height: 380px;
         width: 260px;
