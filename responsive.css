@@ -178,7 +178,7 @@
 }
 @media (max-width: 881px){
     .theme-padding {
-        padding-left: 40px;
+        padding-left: 30px;
         padding-right: 40px;
     }
     .amenities_img {
@@ -433,12 +433,12 @@
         padding-bottom: 40px;
     }
     .theme-padding {
-        /* padding-left: 20px; */
+        padding-left: 20px;
         padding-right: 20px;
     }
     .about_component_images img {
-        width: 270px;
-        height: 390px;
+        width: 260px;
+        height: 380px;
     }
     .about_content {
         margin-left: 0px;
@@ -451,8 +451,8 @@
         gap: 50px;
     }
     .amenities_img img {
-        width: 300px;
-        height: 410px;
+        width: 260px;
+        height: 380px;
     }
     .connectivity_img img {
         height: 270px;
@@ -462,26 +462,26 @@
         margin-left: 0px;
     }
     .image_gallary_img img {
-        height: 400px;
-        width: 300px;
+        height: 380px;
+        width: 260px;
     }
     .connectivity_component {
         padding-left: 20px !important;
     }
     .floor_plan_img img {
-        width: 270px;
-        height: 379px;
+        width: 260px;
+        height: 380px;
     }
     .floor_plan_sub-heading h4 {
         margin-bottom: 20px;
     }
     .specifiaction_image img {
-        height: 430px;
-        width: 300px;
+        height: 380px;
+        width: 260px;
     }
     .about_the_developer_img img {
-        height: 410px;
-        width: 287px;
+        height: 380px;
+        width: 260px;
     }
     .footer_information , .footer_qr p , .footer_disclamer p{
         font-size: 14px;
