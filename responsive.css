@@ -1,0 +1,593 @@
+@media (max-width: 1799px){
+
+}
+@media (max-width: 1599px){
+
+}
+@media (max-width: 1408px){
+
+}
+@media (max-width: 1216px){
+    .theme-padding {
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+    .about_component_images img {
+        width: 413px;
+        height: 550px;
+    }   
+    .amenities_img img {
+        width: 383px;
+        height: 575px;
+    }
+    .amenities_content {
+        margin-right: 20px;
+        padding: 59px 40px 20px 0;
+    }
+    .amenities_icon_content {
+        gap: 5px;
+    }
+    .amenities_bgimg img {
+        /* right: -50px; */
+    }
+    .connectivity_img img {
+        height: 500px;
+        width: 535px;
+    }
+    .connectivity_component {
+        padding-left: 0 !important;
+    }
+    .school_add {
+        gap: 40px;
+    }
+    .image_gallary_content {
+        margin-right: 60px;
+    }
+    .specifiaction_image img {
+        height: 516px;
+        width: 368px;
+    }
+    .specification_content{
+        padding-right: 88px;
+    }
+    .theme_heading h1 {
+        font-size: 42px;  
+    }
+    .about_the_developer_img img {
+        height: 584px;
+        width: 400px;
+    }
+    .about_the_developer_bgimg img {
+        right: -14px;
+    }
+    .specification_content {
+        margin-left: 0px;
+    }
+}
+@media (max-width: 1181px){
+
+}
+@media (max-width: 1024px){
+    section , .section{
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    
+    .navbar {
+        padding: 0 20px;
+    }
+    .nav-menu-list{
+        visibility: hidden;
+        display: none;
+    }
+
+    .navmenu_icon{
+        display: flex !important;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .banner_section img {
+        height: 646px;
+    }
+    .theme_heading h1 {
+        font-size: 30px;
+    }
+    .about_sub-heading h4 {
+        font-weight: 500;
+    }
+    .theme_paragraph p {
+        font-size: 14px;
+    }
+    .about_component_images img {
+        width: 387px;
+        height: 518px;
+    }
+    .amenities_icon_list h5 {   
+        font-size: 12px;
+    }
+    .amenities_img {
+          margin-right: 140px;
+    }
+    .amenities_img img {
+        width: 377px;
+        height: 554px;
+    }
+    .connectivity_content {
+        margin-left: 58px;
+    }
+    .connectivity_sub_heading h4 {
+        font-weight: 400;
+    }
+    .school_add_icon img {
+        height:35px;
+        width:35px;
+    }
+
+    .about_information {
+        gap: 52px;
+    }
+    .about_information_content h1 {
+        font-size: 22px;   
+    }
+    .about_the_developer_content {
+        margin-right: 64px;
+    }
+    .about_information_content h4 {
+        font-size: 12px;
+        text-align: center;
+    }
+    .about_the_developer_heading h1 {
+        margin-bottom: 22px;
+    }
+    .about_the_developer_sub-heading h4 {
+        margin-bottom: 22px;
+    }
+    .about_the_developer_paragraph p {
+        margin-bottom: 24px;
+    }
+
+}
+@media (max-width: 991px){
+    .theme_heading h1 {
+        font-size: 28px;
+    }
+    .about_sub-heading h4 {
+        font-weight: 400;
+    }
+    .amenities_btn button {
+        width: 36px;
+        height: 36px;
+    }
+    .connectivity_content {
+        text-align: justify;
+    }
+    .school_add_content li {
+        margin-bottom: 6px;
+    }
+    .specification_sub-heading h4 {
+        font-weight: 300; 
+    }
+    .specification_list_content h4 {
+        font-weight: 300;
+    }
+    .specification_button button {
+        width: 36px;
+        height: 36px;
+    }
+}
+@media (max-width: 881px){
+    .theme-padding {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+    .amenities_img {
+        margin-right: 0px;
+    }
+    .connectivity_content {
+        margin-left: 57px;
+    }
+    .connectivity_img img {
+        height: 460px;
+        width: 450px;
+    }
+    .image_gallary_img img {
+        height: 503px;
+        width: 379px;
+    }
+    .floor_plan_component {
+        gap: 60px;
+    }
+    .specification_content {
+        margin-left: 26px;
+    }
+    .specifiaction_image img {
+        height: 496px;
+        width: 354px;
+    }
+    .about_the_developer_img img {
+        height: 521px;
+        width: 321px;
+    }
+    .about_the_developer_content {
+        margin-right: 44px;
+    }
+}
+@media (max-width: 768px){
+    .nav-logo img {
+        height: 51px;
+        width: 76px;
+    }
+    .about_content {
+        margin-left: 39px;
+        gap: 20px;
+    }
+    .about_paragraph p {
+        margin-bottom: 12px;
+    }
+    .about_component_images img {
+        width: 386px;
+        height: 526px;
+    }
+    .about_sub-heading h4 {
+        font-weight: 300;
+    }
+    .amenities_icon_list {
+        margin-bottom: 14px;
+    }
+    .amenities_sub_heading h4 {
+        font-weight: 300;
+    }
+    .amenities_img img {
+        width: 300px;
+        height: 511px;
+    }
+    .amenities_icon_list {
+        gap: 14px;
+    }
+    .connectivity_img img {
+        height: 368px;
+        width: 380px;
+    }
+    .image_gallary_img img {
+        height: 470px;
+        width: 320px;
+    }
+    .floor_plan_component {
+        gap: 30px;
+    }
+    .floor_plan_img img {
+        width: 380px;
+        height: 500px;
+    }
+    .specification_content {
+        padding-right: 30px;
+    }
+    .specification_content {
+        margin-left: 18px;
+    }
+    .specification_heading h1 {
+        margin-bottom: 20px;
+    }
+    .specification_sub-heading h4 {
+        margin-bottom: 20px;
+    }
+    .specification_paragraph p {
+        margin-bottom: 20px;
+    }
+    .specification_sub-heading h5 {
+        margin-bottom: 20px;
+    }
+    .specifiaction_image img {
+        height: 472px;
+        width: 324px;
+    }
+    .about_information {
+        gap: 30px;
+    }
+    .about_the_developer_content {
+        margin-right: 26px;
+        width: 50%;
+    }
+    .about_the_developer_heading h1 {
+        margin-bottom: 20px;
+    }
+    .about_the_developer_paragraph p {
+        margin-bottom: 20px;
+    }
+}
+@media (max-width: 575px){
+    .about_component, .amenities_width, .amenities_content , .connectivity_component , .school_add , .image_gallary_component , .floor_plan_component , .specification_component , .about_the_developer_component{
+        display: flex;
+        flex-direction: column; 
+    }
+    .about_component_images , .connectivity_img , .specification_content , .about_information{
+        margin: 0 auto;
+        padding-bottom: 30px;
+    }
+    .about_content , .about_heading h1, .amenities_content , .connectivity_content , .image_gallary_component , .image_gallary_sub-heading h4, .image_gallary_heading , .floor_plan_content , .specification_content
+    , .about_the_developer_content
+    {
+        text-align: center;
+    }
+    .amenities_img , .amenities_content {
+        width:100%; 
+        /* margin: 0 auto; */
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .amenities_icon_content {
+        gap: 111px;
+    }
+    .amenities_img img {
+        width: 349px;
+        height: 511px;
+    }
+    .school_add {
+        gap: 20px;
+    }
+    .connectivity_sub_heading h4 {
+        margin-bottom: 20px;
+    }
+    .connectivity_paragraph p {
+        margin-bottom: 20px;
+    }
+    .image_gallary_heading h1 {
+        margin-bottom: 20px;
+    }
+    .image_gallary_sub-heading h4 {
+        margin-bottom: 20px;
+    }
+    .image_gallary_content {
+        margin-right: 0px;
+        margin-bottom: 30px;
+    }
+    .about_the_developer_content {
+        margin-right: 26px;
+        width: 100%;
+    }
+
+    .footer_information{
+        flex-wrap: wrap;
+    }
+    
+}
+@media (max-width: 480px){
+    .nav-logo img {
+        height: 47px;
+        width: 70px;
+    }
+    .about_component_images img {
+        width: 374px;
+        height: 526px;
+    }
+    .about_content {
+        margin-left: 20px;
+    }
+    .amenities_icon_content {
+        gap: 70px;
+    }
+    .amenities_img img {
+        width: 331px;
+        height: 490px;
+    }
+    .connectivity_component {
+        padding-left: 44px !important;
+    }
+    .connectivity_content {
+        margin-left: 0px;
+    }
+    .image_gallary_img img {
+        height: 438px;
+        width: 320px;
+    } 
+    .floor_plan_img img {
+        width: 360px;
+        height: 450px;
+    }
+    .floor_plan_heading h1 , .floor_plan_sub-heading h4 , .floor_plan_sub-heading h5 , .specification_content {
+        padding-right: 20px;
+    }
+    .specification_content {
+        padding-right: 20px;
+    }
+    .specification_list {
+        margin-left: 20px;
+    } 
+    .about_information {
+        gap: 10px;
+    }
+    .about_the_developer_content {
+        margin-right: 10px;
+        }
+}
+@media (max-width: 420px){
+    .connectivity_content {
+        margin-left: 30px;
+    }
+    .specification_list {
+        margin-left: 0px;
+    }
+    .specifiaction_image img {
+        height: 472px;
+        width: 310px;
+    }
+    .specification_content {
+        padding-right: 10px;
+    }
+    .about_the_developer_img img {
+        height: 500px;
+        width: 308px;
+    }
+    .about_information {
+        gap: 0px;
+    }
+    .about_the_developer_content {
+        margin-right: 0px;
+    }
+}
+@media (max-width: 380px){
+    section, .section {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .theme-padding {
+        /* padding-left: 20px; */
+        padding-right: 20px;
+    }
+    .about_component_images img {
+        width: 270px;
+        height: 390px;
+    }
+    .about_content {
+        margin-left: 0px;
+    }
+    .amenities_content {
+        padding: 40px 0px 20px 0;
+        margin-right: 0px;
+    }
+    .amenities_icon_content {
+        gap: 50px;
+    }
+    .amenities_img img {
+        width: 300px;
+        height: 410px;
+    }
+    .connectivity_img img {
+        height: 270px;
+        width: 270px;
+    }
+    .connectivity_content {
+        margin-left: 0px;
+    }
+    .image_gallary_img img {
+        height: 400px;
+        width: 300px;
+    }
+    .connectivity_component {
+        padding-left: 20px !important;
+    }
+    .floor_plan_img img {
+        width: 270px;
+        height: 379px;
+    }
+    .floor_plan_sub-heading h4 {
+        margin-bottom: 20px;
+    }
+    .specifiaction_image img {
+        height: 430px;
+        width: 300px;
+    }
+    .about_the_developer_img img {
+        height: 410px;
+        width: 287px;
+    }
+    .footer_information , .footer_qr p , .footer_disclamer p{
+        font-size: 14px;
+    }
+}
+@media (max-width: 360px){
+
+}
+@media (max-width: 320px){
+    .nav-logo img {
+        height: 40px;
+        width: 60px;
+    }
+    .about_component_images img {
+        width: 250px;
+        height: 330px;
+    }
+    .theme_heading h1 {
+        font-size: 22px;
+    }
+    .about_sub-heading h4 {
+        font-size: 14px;
+    }
+    .theme_paragraph p {
+        font-size: 12px;
+    }
+    .amenities_icon_content {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        gap: 4px;
+        margin-bottom: 30px;
+        cursor: pointer;
+    }
+    .amenities_sub_heading h4 {
+        margin-bottom: 20px;
+    }
+    .amenities_img img {
+        width: 231px;
+        height: 340px;
+    }
+    .connectivity_img img {
+        height: 242px;
+        width: 220px;
+    }
+    .image_gallary_img img {
+        height: 350px;
+        width: 239px;
+    }
+    .floor_plan_img img {
+        width: 240px;
+        height: 310px;
+    }
+    .specification_list_content h4 {
+        font-size: 12px;
+    }
+    .specification_button button {
+        width: 30px;
+        height: 30px;
+    }
+    .specifiaction_image img {
+        height: 400px;
+        width: 240px;
+    }
+    .amenities_btn button {
+        width: 30px;
+        height: 30px;
+    }
+    .about_information {
+        gap: 10px;
+    }
+    .about_information {
+        flex-direction: column;
+    }
+    .about_the_developer_img img {
+        height: 400px;
+        width: 248px;
+    }
+    .footer_logo img {
+        height: 41px;
+        width: 60px;
+        margin-bottom: 20px;
+    }
+    .footer_information {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        gap: 16px;
+        margin-bottom: 20px;
+    }
+    .footer_qr {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        gap: 16px;
+        margin-bottom: 20px;
+    }
+    .footer_location img {
+        height: 30px;
+        width: 30px;
+    }
+    .footer_qr_logo img {
+        height: 40px;
+        width: 40px;
+    }
+    .copyright_details {
+        text-align: center;
+    }
+}
