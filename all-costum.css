@@ -96,7 +96,7 @@ header{
     align-items: center;
     justify-content: center;
     text-align: center;
-    background-image: url("/asset/images/banner-img.jpg");
+    background-image: url("banner-img.jpg");
     background-position: center;
     background-size: cover;
 }
